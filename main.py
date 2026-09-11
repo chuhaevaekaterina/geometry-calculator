@@ -1,5 +1,4 @@
 python
-print("Конфигурация загружена")
 from circle import Circle
 from rectangle import Rectangle
 def main():
